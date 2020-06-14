@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.sage": "python",
+        "*.tcc": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
+    }
+}

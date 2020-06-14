@@ -1,0 +1,4 @@
+(49996.7,49997.3)
+0
+R_Tree took 0.211879 seconds
+Naive took 0.024893 seconds

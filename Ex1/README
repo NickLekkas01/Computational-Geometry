@@ -1,0 +1,24 @@
+Computational Geometry
+1st Programming Project
+
+This project was done by the following:
+
+    1)Nikolaos Lekkas - 1115201600089
+    2)Emmanouil Lykos - 1115201600096
+
+Manual
+
+    In order to run the exercises you should type on the terminal
+    the command 
+
+        sage {.sage file path}
+    
+    or probably you can run the automatically produced by sage 
+    python scripts. We wrote the programs on sage because we had
+    problem at importing the sage library into a python file, so
+    we found that alternative.
+
+    In exercises 3 and 4, two pictures getting created. The 
+    ex{exercise num}_random_points.png are the random points
+    that we will give as input to the algorithm and 
+    ex{exercise num}_ch2.png is the resulting convex hull.

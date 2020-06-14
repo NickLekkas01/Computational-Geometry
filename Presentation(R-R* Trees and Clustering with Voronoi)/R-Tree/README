@@ -1,0 +1,28 @@
+Manual:
+
+    In order to compile the program write the following command:
+
+                        make
+    
+    After that, you can run the executables by typing:
+
+                ./{executable_name}
+
+    If you want to change a parameter in some program, go to
+    the respective .cpp file, change the defined parameters
+    and recompile again by typing make.
+
+    The executables are the following:
+
+    1. performance_compare: This file runs the experiments that
+    we presented on the slides. If you want, you can change some
+    parameters.
+
+    2. QuadR-Tree_Perf: This file runs the R-Tree with Quadratic Split 
+    for the defined parameters and prints some results about the performance.
+
+    3. RLinear_Perf: This file runs the R-Tree with Linear Split 
+    for the defined parameters and prints some results about the performance.
+
+    4. RStar_Perf: This file runs the R*-Tree for the defined
+    parameters and prints some results about the performance.

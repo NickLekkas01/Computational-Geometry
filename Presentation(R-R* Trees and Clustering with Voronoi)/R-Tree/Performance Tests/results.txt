@@ -1,0 +1,433 @@
+R*-Tree with m=4 and M=10
+Insert took 0.160203 minutes
+Tree has 83163 pages
+Average Range Query Time 0.000715473 seconds
+Range Query touched 633 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=5 and M=10
+Insert took 0.176487 minutes
+Tree has 82120 pages
+Average Range Query Time is 0.00101355 seconds
+Range Query touched 791 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=2 and M=10
+Insert took 0.0716753 minutes
+Tree has 83496 pages
+Average Range Query Time is 0.00120915 seconds
+Range Query touched 952 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=5 and M=10
+Insert took 0.0718633 minutes
+Tree has 83496 pages
+Average Range Query Time is 0.0011212 seconds
+Range Query touched 952 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=2 and M=10
+Insert took 0.105279 minutes
+Tree has 88311 pages
+Average Range Query Time is 0.000218478 seconds
+Range Query touched 105 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=5 and M=10
+Insert took 0.0992578 minutes
+Tree has 81708 pages
+Average Range Query Time is 0.000267169 seconds
+Range Query touched 139 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=20 and M=50
+Insert took 0.950349 minutes
+Tree has 14972 pages
+Average Range Query Time 0.000929885 seconds
+Range Query touched 290 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=25 and M=50
+Insert took 0.971371 minutes
+Tree has 14882 pages
+Average Range Query Time is 0.000990923 seconds
+Range Query touched 310 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=2 and M=50
+Insert took 0.138841 minutes
+Tree has 15765 pages
+Average Range Query Time is 0.00237634 seconds
+Range Query touched 876 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=25 and M=50
+Insert took 0.143245 minutes
+Tree has 15765 pages
+Average Range Query Time is 0.00248299 seconds
+Range Query touched 876 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=2 and M=50
+Insert took 0.248974 minutes
+Tree has 15987 pages
+Average Range Query Time is 0.000152142 seconds
+Range Query touched 29 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=25 and M=50
+Insert took 0.247413 minutes
+Tree has 14825 pages
+Average Range Query Time is 0.000161374 seconds
+Range Query touched 30 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=40 and M=100
+Insert took 2.2733 minutes
+Tree has 7392 pages
+Average Range Query Time 0.000808789 seconds
+Range Query touched 191 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=50 and M=100
+Insert took 2.29148 minutes
+Tree has 7356 pages
+Average Range Query Time is 0.000843197 seconds
+Range Query touched 205 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=2 and M=100
+Insert took 0.19592 minutes
+Tree has 8068 pages
+Average Range Query Time is 0.00370193 seconds
+Range Query touched 780 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=50 and M=100
+Insert took 0.192968 minutes
+Tree has 8068 pages
+Average Range Query Time is 0.00293172 seconds
+Range Query touched 780 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=2 and M=100
+Insert took 0.409786 minutes
+Tree has 7764 pages
+Average Range Query Time is 0.00011193 seconds
+Range Query touched 15 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=50 and M=100
+Insert took 0.396691 minutes
+Tree has 7323 pages
+Average Range Query Time is 0.000136986 seconds
+Range Query touched 17 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=60 and M=150
+Insert took 3.18661 minutes
+Tree has 4863 pages
+Average Range Query Time 0.000790979 seconds
+Range Query touched 138 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=75 and M=150
+Insert took 3.21283 minutes
+Tree has 4857 pages
+Average Range Query Time is 0.000854624 seconds
+Range Query touched 144 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=2 and M=150
+Insert took 0.237969 minutes
+Tree has 5460 pages
+Average Range Query Time is 0.00347449 seconds
+Range Query touched 605 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=75 and M=150
+Insert took 0.233015 minutes
+Tree has 5460 pages
+Average Range Query Time is 0.00329116 seconds
+Range Query touched 605 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=2 and M=150
+Insert took 0.53235 minutes
+Tree has 5061 pages
+Average Range Query Time is 0.000126043 seconds
+Range Query touched 12 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=75 and M=150
+Insert took 0.508505 minutes
+Tree has 4879 pages
+Average Range Query Time is 0.000133244 seconds
+Range Query touched 14 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=80 and M=200
+Insert took 4.11702 minutes
+Tree has 3638 pages
+Average Range Query Time 0.000767958 seconds
+Range Query touched 103 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=100 and M=200
+Insert took 2.53174 minutes
+Tree has 3631 pages
+Average Range Query Time is 0.00108752 seconds
+Range Query touched 110 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=2 and M=200
+Insert took 0.302694 minutes
+Tree has 4149 pages
+Average Range Query Time is 0.00652052 seconds
+Range Query touched 734 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=100 and M=200
+Insert took 0.307446 minutes
+Tree has 4149 pages
+Average Range Query Time is 0.00605057 seconds
+Range Query touched 734 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=2 and M=200
+Insert took 0.693703 minutes
+Tree has 3808 pages
+Average Range Query Time is 0.000131918 seconds
+Range Query touched 10 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=100 and M=200
+Insert took 0.646733 minutes
+Tree has 3627 pages
+Average Range Query Time is 0.000136854 seconds
+Range Query touched 13 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=100 and M=250
+Insert took 5.0043 minutes
+Tree has 2918 pages
+Average Range Query Time 0.00070768 seconds
+Range Query touched 82 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=125 and M=250
+Insert took 5.08842 minutes
+Tree has 2915 pages
+Average Range Query Time is 0.000727584 seconds
+Range Query touched 86 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=2 and M=250
+Insert took 0.338379 minutes
+Tree has 3333 pages
+Average Range Query Time is 0.00519642 seconds
+Range Query touched 618 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=125 and M=250
+Insert took 0.3403 minutes
+Tree has 3333 pages
+Average Range Query Time is 0.00494616 seconds
+Range Query touched 618 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=2 and M=250
+Insert took 0.825525 minutes
+Tree has 2997 pages
+Average Range Query Time is 0.000120832 seconds
+Range Query touched 9 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=125 and M=250
+Insert took 0.804617 minutes
+Tree has 2969 pages
+Average Range Query Time is 0.000126585 seconds
+Range Query touched 10 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=120 and M=300
+Insert took 3.4424 minutes
+Tree has 2395 pages
+Average Range Query Time 0.000898208 seconds
+Range Query touched 67 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=150 and M=300
+Insert took 3.53714 minutes
+Tree has 2444 pages
+Average Range Query Time is 0.000904442 seconds
+Range Query touched 72 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=2 and M=300
+Insert took 0.397507 minutes
+Tree has 2780 pages
+Average Range Query Time is 0.00510831 seconds
+Range Query touched 530 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=150 and M=300
+Insert took 0.400363 minutes
+Tree has 2780 pages
+Average Range Query Time is 0.00502043 seconds
+Range Query touched 530 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=2 and M=300
+Insert took 0.974314 minutes
+Tree has 2494 pages
+Average Range Query Time is 0.000126384 seconds
+Range Query touched 8 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=150 and M=300
+Insert took 0.937707 minutes
+Tree has 2403 pages
+Average Range Query Time is 0.000148507 seconds
+Range Query touched 10 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=160 and M=400
+Insert took 7.65714 minutes
+Tree has 1819 pages
+Average Range Query Time 0.000646873 seconds
+Range Query touched 50 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=200 and M=400
+Insert took 7.8542 minutes
+Tree has 1840 pages
+Average Range Query Time is 0.000707012 seconds
+Range Query touched 50 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=2 and M=400
+Insert took 0.514053 minutes
+Tree has 2061 pages
+Average Range Query Time is 0.00721877 seconds
+Range Query touched 572 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=200 and M=400
+Insert took 0.506748 minutes
+Tree has 2061 pages
+Average Range Query Time is 0.00736629 seconds
+Range Query touched 572 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=2 and M=400
+Insert took 1.269 minutes
+Tree has 1854 pages
+Average Range Query Time is 0.000134644 seconds
+Range Query touched 7 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=200 and M=400
+Insert took 1.189 minutes
+Tree has 1787 pages
+Average Range Query Time is 0.000163439 seconds
+Range Query touched 10 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=200 and M=500
+Insert took 9.60342 minutes
+Tree has 1496 pages
+Average Range Query Time 0.000604154 seconds
+Range Query touched 38 pages on average.
+
+-----------------------------------------------------------
+
+R*-Tree with m=250 and M=500
+Insert took 9.22841 minutes
+Tree has 1472 pages
+Average Range Query Time is 0.000622781 seconds
+Range Query touched 38 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=2 and M=500
+Insert took 0.601851 minutes
+Tree has 1629 pages
+Average Range Query Time is 0.00825268 seconds
+Range Query touched 498 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Linear Split, m=250 and M=500
+Insert took 0.599851 minutes
+Tree has 1629 pages
+Average Range Query Time is 0.0082772 seconds
+Range Query touched 498 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=2 and M=500
+Insert took 1.53229 minutes
+Tree has 1476 pages
+Average Range Query Time is 0.000134544 seconds
+Range Query touched 6 pages on average.
+
+-----------------------------------------------------------
+
+R-Tree with Quadratic Split, m=250 and M=500
+Insert took 1.49325 minutes
+Tree has 1489 pages
+Average Range Query Time is 0.000165759 seconds
+Range Query touched 9 pages on average.
+
+-----------------------------------------------------------
+
+Naive took 142.732 seconds on average
